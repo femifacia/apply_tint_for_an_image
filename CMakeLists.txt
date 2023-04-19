@@ -10,6 +10,7 @@ set(CMAKE_INCLUDE_CURRENT_DIR ON)
 
 
 FILE(GLOB SRC_FILES  ./src/main.cpp
+                        ./src/apply_tint.cpp
         )
 
 
